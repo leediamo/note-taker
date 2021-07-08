@@ -1,14 +1,26 @@
 {
   "name": "note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "## User Story",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Diamond Lee",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
-  }
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leediamo/note-taker.git"
+  },
+  "keywords": [
+    "Heroku",
+    "app"
+  ],
+  "bugs": {
+    "url": "https://github.com/leediamo/note-taker/issues"
+  },
+  "homepage": "https://github.com/leediamo/note-taker#readme"
 }
